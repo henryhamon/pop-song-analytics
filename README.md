@@ -1,6 +1,4 @@
-Inspired on a Netflix documentary called "This is Pop",
-![this is pop](https://static.wikia.nocookie.net/netflix/images/0/01/This_Is_Pop.jpg/revision/latest/scale-to-width-down/350?cb=20210624001439)
-This is an exercise to analyse the songs that was on billboard top 100 songs in the last years.
+Inspired on a Netflix documentary called [this is pop](https://www.netflix.com/br/title/81050786), it is an exercise to analyse the songs that was on billboard top 100 songs in the last years.
 For this project was used a csv file with all Billboard Hot 100 from 2000 to 2018, created by "Michael Tauberg" [@typhon](https://data.world/typhon) available on [Data World project](https://data.world/typhon/billboard-hot-100-songs-2000-2018-w-spotify-data-lyrics)
 
 # iris-analytics-template
