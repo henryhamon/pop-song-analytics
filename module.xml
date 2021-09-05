@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Export generator="Cache" version="25">
-  <Document name="iris-analytics-sample.ZPM">
+  <Document name="pop-songs-analytics.ZPM">
     <Module>
-      <Name>iris-analytics-sample</Name>
-      <Version>1.0.2</Version>
+      <Name>pop-songs-analytics</Name>
+      <Version>1.0.0</Version>
       <Dependencies>
         <ModuleReference>
           <Name>dsw</Name>
@@ -12,14 +12,13 @@
       </Dependencies>
       <Packaging>module</Packaging>
       <SourcesRoot>src</SourcesRoot>
-      <Resource Name="dc.irisbi.PKG"/>
-      <Resource Name="dc.irisbi.covid19D.GBL" />
+      <Resource Name="dc.bi.PKG"/>
       <Resource Name="*.DFI" />
       <Invokes>
         <Invoke Class="%DeepSee.Utils" Method="%BuildCube">
           <Arg>CovidCube</Arg>
         </Invoke>
-        <Invoke Class="dc.irisbi.covid19cube" Method="StopJournalling">
+        <Invoke Class="dc.bi.PopSongsCube" Method="StopJournalling">
           <Arg>IRISAPP</Arg>
         </Invoke>
       </Invokes>
