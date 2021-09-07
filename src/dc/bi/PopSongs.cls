@@ -63,6 +63,8 @@ Property mode As %Library.String(MAXLEN = 250) [ SqlColumnNumber = 31 ];
 
 Property lyrics As %Library.String(MAXLEN = 250) [ SqlColumnNumber = 32 ];
 
+Relationship genres As dc.bi.SongsGenres [ Cardinality = children, Inverse = song ];
+
 ClassMethod Import(pSelectMode As %Library.Integer = {$zu(115,5)}, pFileName As %Library.String(MAXLEN=""), pDelimiter As %String = ",", pQuote As %String = """", pHeaders As %Integer = 0, ByRef pRecordCount As %Integer) As %Library.Integer [ SqlProc ]
 {
 	set tStatementId = $SYSTEM.Util.CreateGUID(), tCounter = 0, pRecordCount = 0
