@@ -52,5 +52,3 @@ Settings file to let you immedietly code in VSCode with [VSCode ObjectScript plu
 
 ### .vscode/launch.json
 Config file if you want to debug with VSCode ObjectScript
-
-[Read about all the files in this article](https://community.intersystems.com/post/dockerfile-and-friends-or-how-run-and-collaborate-objectscript-projects-intersystems-iris)
