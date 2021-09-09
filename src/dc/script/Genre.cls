@@ -9,7 +9,9 @@ ClassMethod Run()
         SELECT ID as SongId
         INTO :songId FROM dc_bi.PopSongs)
       &sql(OPEN songCursor)
-      For { &sql(FETCH songCursor)
+      QUIT:(SQLCODE'=0)
+      &sql(FETCH songCursor)
+      While (SQLCODE'=0) {
           Continue:SQLCODE
           Set song = ##class(dc.bi.PopSongs).%OpenId(songId)
           Set list = $ListFromString($Translate($Replace(song.genre,"u'",""),"[]'",""),", ")
@@ -24,8 +26,9 @@ ClassMethod Run()
             }
           Set songGenre.genre = genre
           Do song.genres.Insert(songGenre)
-      }
+        }
       Do song.%Save()
+      &sql(FETCH songCursor)
     }
 
     &sql(CLOSE songCursor)
