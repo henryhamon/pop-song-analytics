@@ -11,7 +11,7 @@ ClassMethod Run()
       &sql(OPEN songCursor)
       QUIT:(SQLCODE'=0)
       &sql(FETCH songCursor)
-      While (SQLCODE'=0) {
+      WHILE (SQLCODE = 0) {
           Continue:SQLCODE
           Set song = ##class(dc.bi.PopSongs).%OpenId(songId)
           Set list = $ListFromString($Translate($Replace(song.genre,"u'",""),"[]'",""),", ")
@@ -27,13 +27,13 @@ ClassMethod Run()
           Set songGenre.genre = genre
           Do song.genres.Insert(songGenre)
         }
-      Do song.%Save()
-      &sql(FETCH songCursor)
-    }
+        Do song.%Save()
+        &sql(FETCH songCursor)
+      }
 
-    &sql(CLOSE songCursor)
+      &sql(CLOSE songCursor)
 	} Catch tException {
-		Set:$$$ISOK(tSC) tSC = tException.AsStatus()
+      Set:$$$ISOK(tSC) tSC = tException.AsStatus()
 	}
 	Quit tSC
 }
