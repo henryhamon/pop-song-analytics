@@ -54,3 +54,5 @@ Settings file to let you immedietly code in VSCode with [VSCode ObjectScript plu
 Config file if you want to debug with VSCode ObjectScript
 
 [Read about this project in this article](https://community.intersystems.com/post/pop-songs-analytics)
+
+[A live demo here](https://app.powerbi.com/groups/me/reports/cdc72307-2974-4b65-b5a2-6ffd49b4e2b7?ctid=f64bcca7-ee24-48f3-b41f-6592e22e77cd&pbi_source=linkShare)
