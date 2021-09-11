@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26" zv="IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U)" ts="2021-09-11 14:51:13">
+<Global>
+<Node><Sub>^dc.bi.PopSongsC</Sub>
+<Node><Sub>genres</Sub>
+<Data>1280</Data>
+</Node>
+</Node>
+</Global>
+</Export>

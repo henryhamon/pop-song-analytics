@@ -1,0 +1,799 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Export generator="IRIS" version="26" zv="IRIS for UNIX (Ubuntu Server LTS for x86-64 Containers) 2021.1 (Build 215U)" ts="2021-09-11 14:48:37">
+<Global>
+<Node><Sub>^dc.bi.GenreI</Sub>
+<Node><Sub>nameIdx</Sub>
+<Node><Sub> A CAPPELLA</Sub>
+<Node><Sub>66</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ACOUSTIC POP</Sub>
+<Node><Sub>78</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ADULT STANDARDS</Sub>
+<Node><Sub>31</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ALBUM ROCK</Sub>
+<Node><Sub>82</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ALTERNATIVE DANCE</Sub>
+<Node><Sub>90</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ALTERNATIVE METAL</Sub>
+<Node><Sub>47</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ALTERNATIVE ROCK</Sub>
+<Node><Sub>2</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ANTI-FOLK</Sub>
+<Node><Sub>88</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ART ROCK</Sub>
+<Node><Sub>99</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> AUSSIETRONICA</Sub>
+<Node><Sub>134</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> AUSTRALIAN COUNTRY</Sub>
+<Node><Sub>62</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> AZONTO</Sub>
+<Node><Sub>125</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BASS TRAP</Sub>
+<Node><Sub>135</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BIG ROOM</Sub>
+<Node><Sub>57</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BLUES-ROCK</Sub>
+<Node><Sub>51</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BOY BAND</Sub>
+<Node><Sub>107</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BRAZILIAN METAL</Sub>
+<Node><Sub>145</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BROSTEP</Sub>
+<Node><Sub>136</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BUBBLE TRANCE</Sub>
+<Node><Sub>141</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BUBBLEGUM DANCE</Sub>
+<Node><Sub>142</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> BULGARIAN HIP HOP</Sub>
+<Node><Sub>102</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CANADIAN INDIE</Sub>
+<Node><Sub>127</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CANADIAN POP</Sub>
+<Node><Sub>128</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CANDY POP</Sub>
+<Node><Sub>104</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CCM</Sub>
+<Node><Sub>110</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHICANO RAP</Sub>
+<Node><Sub>108</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHINESE HIP HOP</Sub>
+<Node><Sub>11</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHRISTIAN ALTERNATIVE ROCK</Sub>
+<Node><Sub>111</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHRISTIAN MUSIC</Sub>
+<Node><Sub>112</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHRISTIAN ROCK</Sub>
+<Node><Sub>113</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CHRISTMAS</Sub>
+<Node><Sub>32</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CLASSIC FUNK ROCK</Sub>
+<Node><Sub>119</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CLASSIC ROCK</Sub>
+<Node><Sub>52</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COMIC</Sub>
+<Node><Sub>129</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CONSCIOUS HIP HOP</Sub>
+<Node><Sub>12</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CONTEMPORARY COUNTRY</Sub>
+<Node><Sub>36</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COUNTRY</Sub>
+<Node><Sub>50</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COUNTRY DAWN</Sub>
+<Node><Sub>65</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COUNTRY GOSPEL</Sub>
+<Node><Sub>123</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COUNTRY ROAD</Sub>
+<Node><Sub>37</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> COUNTRY ROCK</Sub>
+<Node><Sub>153</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CROSSOVER THRASH</Sub>
+<Node><Sub>146</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CRUNK</Sub>
+<Node><Sub>150</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> CUMBIA</Sub>
+<Node><Sub>155</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DANCE POP</Sub>
+<Node><Sub>17</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DANCE ROCK</Sub>
+<Node><Sub>120</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DANCE-PUNK</Sub>
+<Node><Sub>91</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DANCEHALL</Sub>
+<Node><Sub>105</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DEEP POP R&amp;B</Sub>
+<Node><Sub>63</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DEEP TALENT SHOW</Sub>
+<Node><Sub>22</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DIRTY SOUTH RAP</Sub>
+<Node><Sub>43</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> DISCO</Sub>
+<Node><Sub>121</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> EAST COAST HIP HOP</Sub>
+<Node><Sub>103</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ECTOFOLK</Sub>
+<Node><Sub>85</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> EDM</Sub>
+<Node><Sub>58</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ELECTRO HOUSE</Sub>
+<Node><Sub>137</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ELECTROCLASH</Sub>
+<Node><Sub>92</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ELECTRONIC TRAP</Sub>
+<Node><Sub>138</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ELECTROPOP</Sub>
+<Node><Sub>18</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> EMO</Sub>
+<Node><Sub>9</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ESCAPE ROOM</Sub>
+<Node><Sub>151</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> EURODANCE</Sub>
+<Node><Sub>143</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> EUROPOP</Sub>
+<Node><Sub>144</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> FOLK</Sub>
+<Node><Sub>71</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> FOLK ROCK</Sub>
+<Node><Sub>100</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> FOLK-POP</Sub>
+<Node><Sub>72</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> FUNK</Sub>
+<Node><Sub>157</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> FUNK METAL</Sub>
+<Node><Sub>101</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> G FUNK</Sub>
+<Node><Sub>109</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GANGSTER RAP</Sub>
+<Node><Sub>70</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GARAGE ROCK</Sub>
+<Node><Sub>53</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GERMAN TECHNO</Sub>
+<Node><Sub>152</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GLAM METAL</Sub>
+<Node><Sub>83</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GOSPEL</Sub>
+<Node><Sub>130</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> GRUPERA</Sub>
+<Node><Sub>156</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> HARD ROCK</Sub>
+<Node><Sub>84</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> HARDCORE HIP HOP</Sub>
+<Node><Sub>124</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> HIP HOP</Sub>
+<Node><Sub>44</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> HIP POP</Sub>
+<Node><Sub>49</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> HOLLYWOOD</Sub>
+<Node><Sub>23</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> INDIE POP</Sub>
+<Node><Sub>79</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> INDIE POP RAP</Sub>
+<Node><Sub>86</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> INDIE R&amp;B</Sub>
+<Node><Sub>19</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> INDIE ROCK</Sub>
+<Node><Sub>54</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> INDIETRONICA</Sub>
+<Node><Sub>93</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> JAZZ BLUES</Sub>
+<Node><Sub>33</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> LATIN</Sub>
+<Node><Sub>26</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> LATIN HIP HOP</Sub>
+<Node><Sub>27</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> LATIN POP</Sub>
+<Node><Sub>40</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> LIFT KIT</Sub>
+<Node><Sub>38</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> LILITH</Sub>
+<Node><Sub>73</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MELLOW GOLD</Sub>
+<Node><Sub>74</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> METAL</Sub>
+<Node><Sub>147</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MEXICAN POP</Sub>
+<Node><Sub>41</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MODERN BLUES</Sub>
+<Node><Sub>55</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MODERN COUNTRY ROCK</Sub>
+<Node><Sub>39</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MODERN ROCK</Sub>
+<Node><Sub>3</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MOOMBAHTON</Sub>
+<Node><Sub>139</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MOTOWN</Sub>
+<Node><Sub>122</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> MOVIE TUNES</Sub>
+<Node><Sub>24</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NASHVILLE SOUND</Sub>
+<Node><Sub>154</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEO MELLOW</Sub>
+<Node><Sub>68</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEO SOUL</Sub>
+<Node><Sub>20</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEO-PSYCHEDELIC</Sub>
+<Node><Sub>16</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEW JACK SWING</Sub>
+<Node><Sub>98</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEW RAVE</Sub>
+<Node><Sub>94</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NEW WAVE POP</Sub>
+<Node><Sub>75</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> NU METAL</Sub>
+<Node><Sub>48</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> OUTLAW COUNTRY</Sub>
+<Node><Sub>131</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> PERMANENT WAVE</Sub>
+<Node><Sub>4</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POP</Sub>
+<Node><Sub>13</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POP PUNK</Sub>
+<Node><Sub>5</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POP QUEBECOIS</Sub>
+<Node><Sub>42</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POP RAP</Sub>
+<Node><Sub>14</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POP ROCK</Sub>
+<Node><Sub>6</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POST-GRUNGE</Sub>
+<Node><Sub>7</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POST-HARDCORE</Sub>
+<Node><Sub>115</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> POST-TEEN POP</Sub>
+<Node><Sub>25</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> PROGRESSIVE HOUSE</Sub>
+<Node><Sub>59</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> PUNK BLUES</Sub>
+<Node><Sub>56</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> QUIET STORM</Sub>
+<Node><Sub>133</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> R&amp;B</Sub>
+<Node><Sub>21</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> RAP</Sub>
+<Node><Sub>15</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> RAP METAL</Sub>
+<Node><Sub>96</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> RAP ROCK</Sub>
+<Node><Sub>97</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> REDNECK</Sub>
+<Node><Sub>77</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> REGGAE FUSION</Sub>
+<Node><Sub>106</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> REGGAE ROCK</Sub>
+<Node><Sub>87</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> REGGAETON</Sub>
+<Node><Sub>28</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ROCK</Sub>
+<Node><Sub>8</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> ROOTS ROCK</Sub>
+<Node><Sub>80</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SCREAMO</Sub>
+<Node><Sub>116</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SINGER-SONGWRITER</Sub>
+<Node><Sub>76</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SMOOTH JAZZ</Sub>
+<Node><Sub>158</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SOCA</Sub>
+<Node><Sub>126</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SOFT ROCK</Sub>
+<Node><Sub>81</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SOUL</Sub>
+<Node><Sub>34</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SOUTH AFRICAN POP</Sub>
+<Node><Sub>60</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SOUTHERN HIP HOP</Sub>
+<Node><Sub>45</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SPEED METAL</Sub>
+<Node><Sub>148</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> STONER METAL</Sub>
+<Node><Sub>117</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> STONER ROCK</Sub>
+<Node><Sub>118</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> SYNTHPOP</Sub>
+<Node><Sub>95</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TEXAS COUNTRY</Sub>
+<Node><Sub>132</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> THRASH METAL</Sub>
+<Node><Sub>149</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TRADITIONAL COUNTRY</Sub>
+<Node><Sub>67</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TRAP LATINO</Sub>
+<Node><Sub>29</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TRAP MUSIC</Sub>
+<Node><Sub>46</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TROPICAL</Sub>
+<Node><Sub>30</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> TROPICAL HOUSE</Sub>
+<Node><Sub>61</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> U&quot;CHILDRENS MUSIC&quot;</Sub>
+<Node><Sub>89</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> UNKNOWN</Sub>
+<Node><Sub>1</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> URBAN CONTEMPORARY</Sub>
+<Node><Sub>64</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> VAPOR TWITCH</Sub>
+<Node><Sub>140</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> VEGAS INDIE</Sub>
+<Node><Sub>10</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> VIRAL POP</Sub>
+<Node><Sub>69</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> VOCAL JAZZ</Sub>
+<Node><Sub>35</Sub>
+<Data></Data>
+</Node>
+</Node>
+<Node><Sub> WORSHIP</Sub>
+<Node><Sub>114</Sub>
+<Data></Data>
+</Node>
+</Node>
+</Node>
+</Node>
+</Global>
+</Export>

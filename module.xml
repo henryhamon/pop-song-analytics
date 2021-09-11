@@ -6,7 +6,11 @@
       <Version>1.0.2</Version>
       <SourcesRoot>src</SourcesRoot>
       <Resource Name="dc.PKG"/>
-      <Resource Name="dc.bi.pop-songs-globals.GBL" />
+      <Resource Name="dc.bi.GenreD.GBL" />
+      <Resource Name="dc.bi.GenreI.GBL" />
+      <Resource Name="dc.bi.PopSongsD.GBL" />
+      <Resource Name="dc.bi.PopSongsC.GBL" />
+      <Resource Name="dc.bi.SongsGenresI.GBL" />
       <Parameter Name="folder" Value="irisapp" />
     </Module>
   </Document>
