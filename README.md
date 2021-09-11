@@ -52,3 +52,5 @@ Settings file to let you immedietly code in VSCode with [VSCode ObjectScript plu
 
 ### .vscode/launch.json
 Config file if you want to debug with VSCode ObjectScript
+
+[Read about this project in this article](https://community.intersystems.com/post/pop-songs-analytics)
